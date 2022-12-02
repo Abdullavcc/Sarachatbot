@@ -10,27 +10,27 @@ import time
 from datetime import datetime
 #from database.users_chats_db import db
 
-API_ID = os.environ.get("API_ID", None) 
-API_HASH = os.environ.get("API_HASH", None) 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", None) 
-MONGO_URL = os.environ.get("MONGO_URL", None)
-DATABASE_NAME = os.environ.get("DATABASE_NAME") 
-BOT_USERNAME = os.environ.get("BOT_USERNAME") 
-UPDATE_CHNL = os.environ.get("UPDATE_CHNL")
-OWNER_USERNAME = os.environ.get("OWNER_USERNAME")
-SUPPORT_GRP = os.environ.get("SUPPORT_GRP")
-BOT_NAME = os.environ.get("BOT_NAME")
+API_ID = os.environ.get("API_ID",  4025829
+API_HASH = os.environ.get("API_HASH",  a2307d3b7868fae1d45d2ac3f1024dae
+BOT_TOKEN = os.environ.get("BOT_TOken", 5619315531:AAHQwKfORFyHb15g1y3UTuksSZKoWCXRe80
+MONGO_URL = os.environ.get("MONGO_URL", mongodb+srv://bsdk:betichod@cluster0.fgj1r9z.mongodb.net/?retryWrites=true&w=majority
+DATABASE_NAME = os.environ.get("DATABASE_NAME") ayesha
+BOT_USERNAME = os.environ.get("BOT_USERNAME") II_mannat_robotbot
+UPDATE_CHNL = os.environ.get("UPDATE_CHNL")https://t.me/Sid_XDZ
+OWNER_USERNAME = os.environ.get("OWNER_USERNAME")II_Sher_II
+SUPPORT_GRP = os.environ.get("SUPPORT_GRP")https://t.me/Girls_boys_chatting_01
+BOT_NAME = os.environ.get("BOT_NAME")ayesha
 ADMINS = os.environ.get("ADMINS")
-START_IMG1 = os.environ.get("START_IMG1")
-START_IMG2 = os.environ.get("START_IMG2", None)
-START_IMG3 = os.environ.get("START_IMG3", None)
-START_IMG4 = os.environ.get("START_IMG4", None)
-START_IMG5 = os.environ.get("START_IMG5", None)
-START_IMG6 = os.environ.get("START_IMG6", None)
-START_IMG7 = os.environ.get("START_IMG7", None)
-START_IMG8 = os.environ.get("START_IMG8", None)
-START_IMG9 = os.environ.get("START_IMG9", None)
-START_IMG10 = os.environ.get("START_IMG10", None)
+START_IMG1 = os.environ.get("START_IMG1")https://te.legra.ph/file/a2e87d0388c21cdf0c92a.jpg
+START_IMG2 = os.environ.get("START_IMG2", None) https://te.legra.ph/file/a2e87d0388c21cdf0c92a.jpg
+START_IMG3 = os.environ.get("START_IMG3", None)https://te.legra.ph/file/a2e87d0388c21cdf0c92a.jpg
+START_IMG4 = os.environ.get("START_IMG4", None) https://te.legra.ph/file/a2e87d0388c21cdf0c92a.jpg
+START_IMG5 = os.environ.get("START_IMG5", None)https://te.legra.ph/file/a2e87d0388c21cdf0c92a.jpg
+START_IMG6 = os.environ.get("START_IMG6", None)https://te.legra.ph/file/a2e87d0388c21cdf0c92a.jpg
+START_IMG7 = os.environ.get("START_IMG7", None)https://te.legra.ph/file/a2e87d0388c21cdf0c92a.jpg
+START_IMG8 = os.environ.get("START_IMG8", None) https://te.legra.ph/file/a2e87d0388c21cdf0c92a.jpg
+START_IMG9 = os.environ.get("START_IMG9", None) https://te.legra.ph/file/a2e87d0388c21cdf0c92a.jpg
+START_IMG10 = os.environ.get("START_IMG10", None)https://te.legra.ph/file/a2e87d0388c21cdf0c92a.jpg
 STKR = os.environ.get("STKR")
 STKR1 = os.environ.get("STKR1", None)
 STKR2 = os.environ.get("STKR2", None)
